@@ -1,2 +1,0 @@
-# UTeach
-homeschool app
